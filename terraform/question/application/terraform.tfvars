@@ -12,7 +12,7 @@ public-subnets = {
     az   = "ap-northeast-2c",
     cidr = "192.168.2.0/24"
     tags = {
-      Name = "public-subnet-a"
+      Name = "public-subnet-c"
     }
   }
 }
